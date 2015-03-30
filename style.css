@@ -22,6 +22,10 @@
   float: left;
   padding: 15px;
 }
+#linkedin{
+  margin-left: auto;
+  margin-right: auto;
+}
 #footer {
   background-color: black;
   color: white;
