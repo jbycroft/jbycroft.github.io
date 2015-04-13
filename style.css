@@ -34,6 +34,7 @@
 .home-image {
   height: 250px;
   padding: 15px;
+  float: left;
 }
 .section-text {
   padding-top: 15px;
