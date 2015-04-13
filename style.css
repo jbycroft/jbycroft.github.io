@@ -32,6 +32,9 @@
   text-align: center;
   padding: 5px;
 }
-.home-image{
+.home-image {
   height: 250px;
+}
+.section-text {
+  float: left;
 }
