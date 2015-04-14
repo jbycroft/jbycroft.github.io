@@ -39,3 +39,6 @@
 .section-text {
   padding-top: 15px;
 }
+.form {
+  float: left;
+}
