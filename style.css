@@ -41,4 +41,6 @@
 }
 .form {
   float: left;
+  width: 300px;
+  padding: 15px;
 }
