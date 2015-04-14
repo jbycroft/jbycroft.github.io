@@ -20,9 +20,10 @@
 #section {
   padding: 15px;
 }
-#linkedin{
+.linkedin{
   margin-left: auto;
   margin-right: auto;
+  padding: 15px;
 }
 #footer {
   background-color: black;
@@ -42,5 +43,10 @@
 .form {
   float: left;
   width: 500px;
+  padding: 15px;
+}
+.resume {
+  margin-left: auto;
+  margin-right: auto;
   padding: 15px;
 }
