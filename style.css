@@ -59,9 +59,9 @@ body {
 .contact-icon {
   height: 100px;
   padding: 5px;
+  display: block;
   margin-left: auto;
-  margin-right: auto;
-  width: 70%;
+  margin-right: auto
 }
 .section-text {
   padding: 5px;
