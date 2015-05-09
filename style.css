@@ -61,6 +61,7 @@ body {
   padding: 5px;
 }
 .section-text {
+  float: left;
   padding: 5px;
 }
 .form {
