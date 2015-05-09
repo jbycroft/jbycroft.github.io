@@ -59,6 +59,7 @@ body {
 .contact-icon {
   height: 100px;
   padding: 5px;
+  align:middle;
 }
 .section-text {
   padding: 5px;
