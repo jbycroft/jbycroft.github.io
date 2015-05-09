@@ -39,10 +39,10 @@
   -webkit-transition: width 2s, height 4s;
     transition: width 2s, height 4s;
 }
-.content-table{
+.contact-table{
   float:left;
 }
-.content-icon {
+.contact-icon {
   height: 100px;
 }
 .home-image:hover {
