@@ -36,6 +36,11 @@ body {
   padding: 5px;
   width: 800px;
 }
+.about-image{
+  height: 200px;
+  padding: 15px;
+  float: left;
+}
 .home-image {
   height: 50px;
   padding: 15px;
