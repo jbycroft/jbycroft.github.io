@@ -48,6 +48,10 @@ body {
   -webkit-transition: width 2s, height 4s;
     transition: width 2s, height 4s;
 }
+.home-image:hover {
+  height: 325px;
+  float: left;
+}
 .contact-table{
   float:left;
   padding: 5px;
@@ -55,10 +59,6 @@ body {
 .contact-icon {
   height: 100px;
   padding: 5px;
-}
-.home-image:hover {
-  height: 350px;
-  float: left;
 }
 .section-text {
   padding: 5px;
