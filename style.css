@@ -4,6 +4,7 @@
   width: 70%;
 }
 #header {
+  width: 1000px;
   background-color: black;
   color: white;
   text-align: center;
@@ -19,7 +20,8 @@
 }
 #section {
   padding: 15px;
-  width: 500px;
+  width: 900px;
+  float: left;
 }
 .linkedin{
   margin-left: auto;
