@@ -39,6 +39,12 @@
   -webkit-transition: width 2s, height 4s;
     transition: width 2s, height 4s;
 }
+.content-table{
+  float:left;
+}
+.content-icon {
+  height: 100px;
+}
 .home-image:hover {
   height: 300px;
   float: left;
